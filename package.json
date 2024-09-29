@@ -1,0 +1,42 @@
+{
+  "name": "9qxqzi--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@mui/icons-material": "^6.1.1",
+    "@mui/material": "^6.1.1",
+    "@mui/material-pigment-css": "^6.1.1",
+    "@mui/system": "^5.15.14 || ^6.0.0",
+    "@mui/x-charts": "^7.18.0",
+    "@mui/x-data-grid": "^7.18.0",
+    "@mui/x-data-grid-pro": "^7.18.0",
+    "@mui/x-date-pickers": "^7.18.0",
+    "@mui/x-date-pickers-pro": "^7.18.0",
+    "@mui/x-tree-view": "^7.18.0",
+    "@react-spring/web": "^9.7.4",
+    "@types/react": "^18.3.10",
+    "@types/react-dom": "^18.3.0",
+    "clsx": "^2.1.1",
+    "date-fns": "^2.25.0 || ^3.2.0 || ^4.0.0",
+    "date-fns-jalali": "^2.13.0-0 || ^3.2.0-0",
+    "dayjs": "^1.11.13",
+    "luxon": "^3.0.2",
+    "moment": "^2.29.4",
+    "moment-hijri": "^2.1.2",
+    "moment-jalaali": "^0.7.4 || ^0.8.0 || ^0.9.0 || ^0.10.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "typescript": "^5.6.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
